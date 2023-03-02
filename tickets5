@@ -1,0 +1,9 @@
+pipeline{
+agent {
+stages{
+stage{
+s echo'hai all how are you'
+}
+}
+}
+}
